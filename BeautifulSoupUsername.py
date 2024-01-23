@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 # HTML code (replace with your HTML)
 html_code = """
-`<div id="survey_question_1" class="survey_question_box survey_single_question"      </div>\n    </div>\n  </div>\n</div>\n`
+put code here
 """
 
 # Create a BeautifulSoup object
