@@ -1,3 +1,6 @@
+#this script will parse through mimikatz output. Save mimikatz output into a txt file and pass that file as the argument for this script.
+#usage python3 parse.mimikatz.py mimikatz_output.txt
+
 import sys
 import string
 
